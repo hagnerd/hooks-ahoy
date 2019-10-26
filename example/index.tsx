@@ -4,6 +4,7 @@ import * as ReactDOM from 'react-dom';
 
 import ScrollLock from './scroll-lock';
 import Keybind from './keybind-btn';
+import Modal from './modal';
 
 const App = () => {
   return (
@@ -12,6 +13,8 @@ const App = () => {
       <ScrollLock />
       <h1>Keybinds</h1>
       <Keybind />
+      <h1>MODAL</h1>
+      <Modal />
     </div>
   );
 };

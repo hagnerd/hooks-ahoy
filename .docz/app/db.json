@@ -1,0 +1,135 @@
+{
+  "config": {
+    "title": "Hooks Ahoy",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "version": "0.1.0",
+    "repository": null,
+    "native": false,
+    "themeConfig": {},
+    "separator": "-"
+  },
+  "entries": [
+    {
+      "key": "README.md",
+      "value": {
+        "id": "04c6e90faac2675aa89e2176d2eec7d8",
+        "filepath": "README.md",
+        "fullpath": "/Users/elvisjg/Documents/Personal/hooks-ahoy/README.md",
+        "link": "",
+        "slug": "readme",
+        "route": "/readme",
+        "name": "Readme",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "hooks-ahoy-︎",
+            "depth": 1,
+            "value": "Hooks Ahoy ⚓︎🍪"
+          },
+          {
+            "slug": "installation",
+            "depth": 2,
+            "value": "Installation"
+          },
+          {
+            "slug": "useage",
+            "depth": 2,
+            "value": "Useage"
+          },
+          {
+            "slug": "docs",
+            "depth": 2,
+            "value": "Docs"
+          }
+        ]
+      }
+    },
+    {
+      "key": "md/use-modal.mdx",
+      "value": {
+        "name": "useModal",
+        "id": "a5f87dd20ccd9a0ac7a52767ad5aa2ca",
+        "filepath": "md/use-modal.mdx",
+        "fullpath": "/Users/elvisjg/Documents/Personal/hooks-ahoy/md/use-modal.mdx",
+        "link": "",
+        "slug": "md-use-modal",
+        "route": "/md-use-modal",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "signature",
+            "depth": 2,
+            "value": "Signature"
+          },
+          {
+            "slug": "return-types",
+            "depth": 2,
+            "value": "Return Types"
+          },
+          {
+            "slug": "basic-usage",
+            "depth": 2,
+            "value": "Basic Usage"
+          }
+        ]
+      }
+    },
+    {
+      "key": "md/use-scroll-lock.mdx",
+      "value": {
+        "name": "useScrollLock",
+        "id": "72fb1942d692ef2d31224bfc5b5141cb",
+        "filepath": "md/use-scroll-lock.mdx",
+        "fullpath": "/Users/elvisjg/Documents/Personal/hooks-ahoy/md/use-scroll-lock.mdx",
+        "link": "",
+        "slug": "md-use-scroll-lock",
+        "route": "/md-use-scroll-lock",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "signature",
+            "depth": 2,
+            "value": "Signature"
+          },
+          {
+            "slug": "return-types",
+            "depth": 2,
+            "value": "Return Types"
+          },
+          {
+            "slug": "basic-usage",
+            "depth": 2,
+            "value": "Basic Usage"
+          }
+        ]
+      }
+    },
+    {
+      "key": "md/useKeybind.mdx",
+      "value": {
+        "name": "useKeybind",
+        "id": "89c1c3d6e0586c8c9e2b13ed5a32a06b",
+        "filepath": "md/useKeybind.mdx",
+        "fullpath": "/Users/elvisjg/Documents/Personal/hooks-ahoy/md/useKeybind.mdx",
+        "link": "",
+        "slug": "md-use-keybind",
+        "route": "/md-use-keybind",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "input-types",
+            "depth": 2,
+            "value": "Input Types"
+          },
+          {
+            "slug": "basic-usage",
+            "depth": 2,
+            "value": "Basic Usage"
+          }
+        ]
+      }
+    }
+  ],
+  "props": []
+}

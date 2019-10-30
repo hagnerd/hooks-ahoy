@@ -13,8 +13,7 @@
     "start": "tsdx watch",
     "build": "tsdx build",
     "test": "tsdx test --env=jsdom",
-    "lint": "tsdx lint",
-    "build:demo": "fiddly"
+    "lint": "tsdx lint"
   },
   "peerDependencies": {
     "react": ">=16"
@@ -23,9 +22,6 @@
     "hooks": {
       "pre-commit": "tsdx lint"
     }
-  },
-  "fiddly": {
-    "darkTheme": true
   },
   "prettier": {
     "printWidth": 80,
@@ -38,7 +34,6 @@
     "@types/react": "^16.9.11",
     "@types/react-dom": "^16.9.3",
     "docz": "^2.0.0-rc.64",
-    "fiddly": "^0.8.0",
     "husky": "^3.0.9",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
